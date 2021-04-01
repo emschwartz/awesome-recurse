@@ -13,12 +13,23 @@
 
 Any resources that do not have a free version accessible (or require physical equipment other than a computer) are marked with a :heavy_dollar_sign:.
 
-## History of Computing
-- :book: :turtle: [Where the Wizards Stay Up Late: The Origins of the Internet](https://www.simonandschuster.com/books/Where-Wizards-Stay-Up-Late/Katie-Hafner/9780684832678)
+## Web Development
 
-## Embedded Programming
+## Machine Learning
 
-- :hammer: :rabbit2: :heavy_dollar_sign: [Knurling Sessions](https://ferrous-systems.com/blog/knurling-sessions-introduction/) - Learn embedded Rust programming by building a CO2 sensor and/or a Minesweeper game
+## Networking
+
+## Distributed Systems
+
+- :teacher: [MIT Distributed Computer Systems Engineering (6.824)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/) ([notes](https://timilearning.com/tags/mit-6.824/))
+- :book: :heavy_dollar_sign: [Designing Data-Intensive Applications (DDIA)](https://dataintensive.net/)
+
+## Data Structures & Algorithms
+
+## Programming Languages
+
+- :teacher: :hammer: :rabbit2: [Dan Grossman's Programming Language course](https://courses.cs.washington.edu/courses/cse341/19sp/#all) (also on [Coursera](https://www.coursera.org/learn/programming-languages))
+- :book: :turtle: [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)
 
 ## How Computers Work
 
@@ -27,22 +38,13 @@ Any resources that do not have a free version accessible (or require physical eq
 - :movie_camera: :hammer: [Build an 8-bit Computer From Scratch](https://eater.net/8bit)
 - :movie_camera: :rabbit2: [Sam Zeloof's channel on semiconductors, lithography, etc](https://www.youtube.com/c/SamZeloof/videos)
 
-## Programming Languages
+## Embedded Programming
 
-- :teacher: :hammer: :rabbit2: [Dan Grossman's Programming Language course](https://courses.cs.washington.edu/courses/cse341/19sp/#all) (also on [Coursera](https://www.coursera.org/learn/programming-languages))
-- :book: :turtle: [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)
-
-
-## Data Structures & Algorithms
+- :hammer: :rabbit2: :heavy_dollar_sign: [Knurling Sessions](https://ferrous-systems.com/blog/knurling-sessions-introduction/) - Learn embedded Rust programming by building a CO2 sensor and/or a Minesweeper game
 
 
-## Distributed Systems
+## History of Computing
+- :book: :turtle: [Where the Wizards Stay Up Late: The Origins of the Internet](https://www.simonandschuster.com/books/Where-Wizards-Stay-Up-Late/Katie-Hafner/9780684832678)
 
-- :teacher: [MIT Distributed Computer Systems Engineering (6.824)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/) ([notes](https://timilearning.com/tags/mit-6.824/))
-- :book: :heavy_dollar_sign: [Designing Data-Intensive Applications (DDIA)](https://dataintensive.net/)
 
-## Networking
 
-## Machine Learning
-
-## Web Development
