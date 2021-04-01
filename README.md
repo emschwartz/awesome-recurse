@@ -23,7 +23,7 @@ Any resources that do not have a free version accessible (or require physical eq
 
 - :teacher: :hammer: :turtle: [NAND to Tetris Part I](https://www.coursera.org/learn/build-a-computer) - Build a modern computer from basic logic gates
 - :teacher: :hammer: :rabbit2: [NAND to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) - Write a virtual machine, compiler for a higher-level programming language, and an operating system
-- :movie_camera: :hammer: [8-bit computer](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU&index=1)
+- :movie_camera: :hammer: [Build an 8-bit Computer From Scratch](https://eater.net/8bit)
 - :movie_camera: :rabbit2: [Sam Zeloof's channel on semiconductors, lithography, etc](https://www.youtube.com/c/SamZeloof/videos)
 
 ## Programming Languages
