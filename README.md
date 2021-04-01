@@ -1,5 +1,5 @@
-# Awesome Recurse
-> Fan favorite resources for learning about computery things while at (or not at) the [Recurse Center](recurse.com/).
+# Awesome Recurse [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> Awesome resources for learning about computery things while at (or not at) the [Recurse Center](recurse.com/).
 
 **Legend**
 
