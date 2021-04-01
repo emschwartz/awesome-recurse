@@ -34,13 +34,13 @@ Any resources that do not have a free version accessible (or require physical eq
 ## How Computers Work
 
 - :teacher: :hammer: :turtle: [NAND to Tetris Part I](https://www.coursera.org/learn/build-a-computer) - Build a modern computer from basic logic gates
-- :teacher: :hammer: :rabbit2: [NAND to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) - Write a virtual machine, compiler for a higher-level programming language, and an operating system
+- :teacher: :hammer: :rabbit2: [NAND to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) - Write a virtual machine, compiler, and an operating system
 - :movie_camera: :hammer: [Build an 8-bit Computer From Scratch](https://eater.net/8bit)
 - :movie_camera: :rabbit2: [Sam Zeloof's channel on semiconductors, lithography, etc](https://www.youtube.com/c/SamZeloof/videos)
 
 ## Embedded Programming
 
-- :hammer: :rabbit2: :heavy_dollar_sign: [Knurling Sessions](https://ferrous-systems.com/blog/knurling-sessions-introduction/) - Learn embedded Rust programming by building a CO2 sensor and/or a Minesweeper game
+- :hammer: :rabbit2: :heavy_dollar_sign: [Knurling Sessions](https://ferrous-systems.com/blog/knurling-sessions-introduction/) - Learn embedded Rust by building a CO2 sensor and/or a Minesweeper game
 
 
 ## History of Computing
