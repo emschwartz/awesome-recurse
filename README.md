@@ -18,6 +18,7 @@ Any resources that do not have a free version accessible (or require physical eq
 
 ## Embedded Programming
 
+- :hammer: :rabbit2: :heavy_dollar_sign: [Knurling Sessions](https://ferrous-systems.com/blog/knurling-sessions-introduction/) - Learn embedded Rust programming by building a CO2 sensor and/or a Minesweeper game
 
 ## How Computers Work
 
