@@ -20,7 +20,7 @@ Any resources that do not have a free version accessible (or require physical eq
 
 ## Web Development
 
-* :man_teacher: :movie_camera: [CS50 Web by Brian Hu and David Malan](https://cs50.harvard.edu/web/2020/) (this is different than the vanilla CS50)
+* :teacher: :movie_camera: [CS50 Web by Brian Hu and David Malan](https://cs50.harvard.edu/web/2020/) (this is different than the vanilla CS50)
 
 ## Machine Learning
 
@@ -52,5 +52,4 @@ Any resources that do not have a free version accessible (or require physical eq
 
 ## History of Computing
 - :book: :turtle: [Where the Wizards Stay Up Late: The Origins of the Internet](https://www.simonandschuster.com/books/Where-Wizards-Stay-Up-Late/Katie-Hafner/9780684832678)
-
 
