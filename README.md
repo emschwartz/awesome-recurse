@@ -24,6 +24,8 @@ Any resources that do not have a free version accessible (or require physical eq
 
 ## Machine Learning
 
+- :teacher: [fast.ai Practical Deep Learning for Coders](https://www.fast.ai/)
+
 ## Networking
 
 ## Distributed Systems
