@@ -15,7 +15,7 @@ Any resources that do not have a free version accessible (or require physical eq
 
 ## Intro to CS
 
-* :man_teacher: :movie_camera: [CS50 by David Malan](https://cs50.harvard.edu/college/2021/spring/)
+* :teacher: :movie_camera: [CS50 by David Malan](https://cs50.harvard.edu/college/2021/spring/)
 * :book: :heavy_dollar_sign: [Computer Science Distilled](https://www.goodreads.com/book/show/34189798-computer-science-distilled) - a small 180-page book providing a concise yet rigorous introduction to Computer Science
 
 ## Web Development
@@ -52,6 +52,5 @@ Any resources that do not have a free version accessible (or require physical eq
 
 ## History of Computing
 - :book: :turtle: [Where the Wizards Stay Up Late: The Origins of the Internet](https://www.simonandschuster.com/books/Where-Wizards-Stay-Up-Late/Katie-Hafner/9780684832678)
-
 
 
