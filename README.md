@@ -13,7 +13,14 @@
 
 Any resources that do not have a free version accessible (or require physical equipment other than a computer) are marked with a :heavy_dollar_sign:.
 
+## Intro to CS
+
+* :man_teacher: :movie_camera: [CS50 by David Malan](https://cs50.harvard.edu/college/2021/spring/)
+* :book: :heavy_dollar_sign: [Computer Science Distilled](https://www.goodreads.com/book/show/34189798-computer-science-distilled) - a small 180-page book providing a concise yet rigorous introduction to Computer Science
+
 ## Web Development
+
+* :man_teacher: :movie_camera: [CS50 Web by Brian Hu and David Malan](https://cs50.harvard.edu/web/2020/) (this is different than the vanilla CS50)
 
 ## Machine Learning
 
