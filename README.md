@@ -15,12 +15,12 @@ Any resources that do not have a free version accessible (or require physical eq
 
 ## Intro to CS
 
-* :teacher: :movie_camera: [CS50 by David Malan](https://cs50.harvard.edu/college/2021/spring/)
+* :teacher: :movie_camera: [CS50 by David Malan](https://cs50.harvard.edu/) (also available on [EdX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)) - a popular first course in computer science. Accessible to newcomers and also helpful for people with some experience. It even has its dedicated [StackExchange](https://cs50.stackexchange.com/) forum! Prof. Malan is one of the finest teachers in CS.
 * :book: :heavy_dollar_sign: [Computer Science Distilled](https://www.goodreads.com/book/show/34189798-computer-science-distilled) - a small 180-page book providing a concise yet rigorous introduction to Computer Science
 
 ## Web Development
 
-* :teacher: :movie_camera: [CS50 Web by Brian Hu and David Malan](https://cs50.harvard.edu/web/2020/) (this is different than the vanilla CS50)
+* :teacher: :movie_camera: [CS50 Web by Brian Hu and David Malan](https://cs50.harvard.edu/web/) (this is different than the vanilla CS50 mentioned above) - gives you a complete overview of the landscape of full-stack web development using HTML/CSS, Django, SQL, Javascript upto testing and CI/CD
 
 ## Machine Learning
 
