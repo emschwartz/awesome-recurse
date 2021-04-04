@@ -22,7 +22,7 @@ Any resources that do not have a free version accessible (or require physical eq
 
 * :teacher: [CS50 Web by Brian Hu and David Malan](https://cs50.harvard.edu/web/) (this is different than the vanilla CS50 mentioned above) - gives you a complete overview of the landscape of full-stack web development using HTML/CSS, Django, SQL, Javascript upto testing and CI/CD
 
-## Machine Learning
+## Artificial Intelligence / Machine Learning
 
 - :teacher: :turtle: [6.034 Artificial Intelligence (MIT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 - :teacher: :turtle:[fast.ai Practical Deep Learning for Coders](https://www.fast.ai/)
@@ -39,6 +39,7 @@ Any resources that do not have a free version accessible (or require physical eq
 
 - :teacher: [MIT Distributed Computer Systems Engineering (6.824)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/) ([notes](https://timilearning.com/tags/mit-6.824/))
 - :book: :heavy_dollar_sign: [Designing Data-Intensive Applications (DDIA)](https://dataintensive.net/)
+- :turtle: [Systems Design Primer](https://github.com/donnemartin/system-design-primer) - Overview of systems design, primarily targeted towards interview preparation
 
 ## Data Structures & Algorithms
 
@@ -47,7 +48,6 @@ Any resources that do not have a free version accessible (or require physical eq
 - :teacher: :hammer: :rabbit2: [Dan Grossman's Programming Language course](https://courses.cs.washington.edu/courses/cse341/19sp/#all) (also on [Coursera](https://www.coursera.org/learn/programming-languages))
 - :book: :turtle: [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)
 - :teacher: :hammer: :rabbit2: [Crafting Interpreters](https://craftinginterpreters.com/) - Two complete walkthroughs for writing a compiler from scratch, one in Java and another in C
-- :turtle: [Systems Design Primer](https://github.com/donnemartin/system-design-primer) - Overview of systems design, primarily targeted towards interview preparation
 
 
 ## How Computers Work
