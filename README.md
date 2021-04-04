@@ -24,7 +24,14 @@ Any resources that do not have a free version accessible (or require physical eq
 
 ## Machine Learning
 
-- :teacher: [fast.ai Practical Deep Learning for Coders](https://www.fast.ai/)
+- :teacher: :turtle: [6.034 Artificial Intelligence (MIT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+- :teacher: :turtle:[fast.ai Practical Deep Learning for Coders](https://www.fast.ai/)
+- :teacher: :turtle: [Introduction to Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)
+- :book: :rabbit2: [Deep Learning (Goodfellow, Bengio)](https://www.deeplearningbook.org/)
+- :teacher: :rabbit2:[CS285 Reinforcement Learning (UCBerkeley)](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- :teacher: :rabbit2:[Introduction to Reinforcement Learning (David Silver)](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+- :book: :rabbit2: [Reinforcement Learning: An introduction (Sutton, Barto](http://incompleteideas.net/book/the-book.html)
+- :turtle: [Awesome Deep Learning](https://github.com/donnemartin/system-design-primer) - A curated list of awesome Deep Learning tutorials, projects and communities
 
 ## Networking
 
@@ -39,6 +46,9 @@ Any resources that do not have a free version accessible (or require physical eq
 
 - :teacher: :hammer: :rabbit2: [Dan Grossman's Programming Language course](https://courses.cs.washington.edu/courses/cse341/19sp/#all) (also on [Coursera](https://www.coursera.org/learn/programming-languages))
 - :book: :turtle: [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)
+- :teacher: :hammer: :rabbit2: [Crafting Interpreters](https://craftinginterpreters.com/) - Two complete walkthroughs for writing a compiler from scratch, one in Java and another in C
+- :turtle: [Systems Design Primer](https://github.com/donnemartin/system-design-primer) - Overview of systems design, primarily targeted towards interview preparation
+
 
 ## How Computers Work
 
@@ -54,4 +64,3 @@ Any resources that do not have a free version accessible (or require physical eq
 
 ## History of Computing
 - :book: :turtle: :heavy_dollar_sign: [Where the Wizards Stay Up Late: The Origins of the Internet](https://www.simonandschuster.com/books/Where-Wizards-Stay-Up-Late/Katie-Hafner/9780684832678)
-
