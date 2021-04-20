@@ -42,7 +42,7 @@ Any resources that do not have a free version accessible (or require physical eq
 
 ## Operating Systems
 - :book: :heavy_dollar_sign: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) OS Textbook centered around three concepts: virtualization, concurrency, and persistence.
-- :book: :heavy_dollar_sign: [Operating System Concepts (Tenth Edition)](https://www.os-book.com/OS10/) Another great OS textbook alternative
+- :book: :heavy_dollar_sign: [Operating System Concepts (Tenth Edition)](https://www.os-book.com/OS10/) Another great OS textbook alternative.
 
 ## Distributed Systems
 
