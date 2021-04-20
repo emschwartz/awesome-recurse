@@ -35,14 +35,14 @@ Any resources that do not have a free version accessible (or require physical eq
 ## Databases
 
 - :book: [Use the Index, Luke](https://use-the-index-luke.com/) Practical guide on database internals and indexing
-- :movie_camera: [UCBerkely's CS186](https://www.youtube.com/playlist?list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge) - Introduction to Database Systems
+- :movie_camera: [UCBerkely's CS186](https://www.youtube.com/playlist?list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge) Introduction to Database Systems
 
 ## Compilers
 - :book: [Crafting Interpreters](https://craftinginterpreters.com/) A handbook for making programming languages.
 
 ## Operating Systems
-- :book: :heavy_dollar_sign: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-- :book: :heavy_dollar_sign: [Operating System Concepts (Tenth Edition)](https://www.os-book.com/OS10/)
+- :book: :heavy_dollar_sign: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) OS Textbook centered around three concepts: virtualization, concurrency, and persistence.
+- :book: :heavy_dollar_sign: [Operating System Concepts (Tenth Edition)](https://www.os-book.com/OS10/) Another great OS textbook alternative
 
 ## Distributed Systems
 
@@ -50,13 +50,13 @@ Any resources that do not have a free version accessible (or require physical eq
 - :book: :heavy_dollar_sign: [Designing Data-Intensive Applications (DDIA)](https://dataintensive.net/)
 
 ## Data Structures & Algorithms
-- :book: [Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures)
-- :book: [Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/books/introduction-algorithms)
-- :book: [Algorithm Design](https://www.amazon.ca/Algorithm-Design-Jon-Kleinberg/dp/0321295358)
-- :book: [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
-- :movie_camera: [Algorithm and Data Structures by William Fiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
-- :movie_camera: [Stanford's CS166, Data Structures](https://web.stanford.edu/class/cs166/)
-- :movie_camera: [Harvord's COMPSCI 224, Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
+- :book: [Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures) Wikipedia's book/index of wiki entries on fundamental data structures.
+- :book: [Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/books/introduction-algorithms) A thorough algorithms textbook.
+- :book: [Algorithm Design](https://www.amazon.ca/Algorithm-Design-Jon-Kleinberg/dp/0321295358) A great algorithms textbook alternative to CLRS.
+- :book: [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/) A digestable  algorithms textbook with bite-sized chapters.
+- :movie_camera: [Algorithm and Data Structures by William Fiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw) High quality video series on data structures and algorithms. 
+- :teacher: [Stanford's CS166, Data Structures](https://web.stanford.edu/class/cs166/) Great slides on data structures.
+- :movie_camera: [Harvard's COMPSCI 224, Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) High quality video lectures on advanced algorithms.
 
 ## Programming Languages
 
