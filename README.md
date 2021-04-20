@@ -28,12 +28,35 @@ Any resources that do not have a free version accessible (or require physical eq
 
 ## Networking
 
+- :movie_camera: [Computer Networks (University of Washington)](https://www.youtube.com/playlist?list=PLVEo1P9gAninM7KwP1KKolfMQdNs6P6Am) Networking Lectures taught in a bottom-up fashion
+- :book: [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) The go-to handbook to network programming
+- :hammer: [The UChicago X-Projects](http://chi.cs.uchicago.edu/index.html#) Project based learning networking. chirouter implements an IP router, chiTCP implements a subset of TCP, and chirc implements a subset of the IRC protocol.
+
+## Databases
+
+- :book: [Use the Index, Luke](https://use-the-index-luke.com/) Practical guide on database internals and indexing
+- :movie_camera: [UCBerkely's CS186](https://www.youtube.com/playlist?list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge) - Introduction to Database Systems
+
+## Compilers
+- :book: [Crafting Interpreters](https://craftinginterpreters.com/) A handbook for making programming languages.
+
+## Operating Systems
+- :book: :heavy_dollar_sign: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- :book: :heavy_dollar_sign: [Operating System Concepts (Tenth Edition)](https://www.os-book.com/OS10/)
+
 ## Distributed Systems
 
 - :teacher: [MIT Distributed Computer Systems Engineering (6.824)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/) ([notes](https://timilearning.com/tags/mit-6.824/))
 - :book: :heavy_dollar_sign: [Designing Data-Intensive Applications (DDIA)](https://dataintensive.net/)
 
 ## Data Structures & Algorithms
+- :book: [Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures)
+- :book: [Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/books/introduction-algorithms)
+- :book: [Algorithm Design](https://www.amazon.ca/Algorithm-Design-Jon-Kleinberg/dp/0321295358)
+- :book: [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+- :movie_camera: [Algorithm and Data Structures by William Fiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
+- :movie_camera: [Stanford's CS166, Data Structures](https://web.stanford.edu/class/cs166/)
+- :movie_camera: [Harvord's COMPSCI 224, Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 
 ## Programming Languages
 
